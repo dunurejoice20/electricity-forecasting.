@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project-specific
+data/
+household_power_consumption.txt
+*.zip
