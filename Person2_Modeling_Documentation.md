@@ -18,4 +18,9 @@ The resulting modeling dataset contained 2,015,236 rows and nine columns, with n
 The prepared dataset is divided chronologically into training and testing sets using an 80:20 split. The earlier 80% of the observations is reserved for model training, while the latest 20% is held out for evaluation.
 The input features include calendar information, lagged electricity consumption, and a one-hour rolling mean. The prediction target is `Global_active_power`.
 Chronological splitting is used to preserve the time order of the observations and evaluate model performance on a later period. The same test period will be used to compare the models.
+Training and Testing
+The dataset was split chronologically into training and testing sets to preserve the time order of observations.
+Training set: 1,612,188 rows
+Testing set: 403,048 rows
+The input variables were stored in X_train and X_test, while the target variable was Global_active_power.
 
