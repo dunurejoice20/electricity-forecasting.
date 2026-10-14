@@ -57,7 +57,7 @@ Keras Neural Network
 12.4322.
 
 ## App Demo
-(link and screenshot to be added)
+https://electricity-forecasting-dszsxnebf7qghzho5p9anp.streamlit.app/
 
 ## How to Run
 (to be written)
