@@ -1,0 +1,4 @@
+Model,MAE,RMSE,MAPE
+Baseline (yesterday),0.4847,0.7305,64.63
+Linear Regression,0.3545,0.4968,51.17
+Random Forest,0.3195,0.4619,44.94
